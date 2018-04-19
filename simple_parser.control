@@ -1,0 +1,5 @@
+# simple_parser extension
+comment = 'simple parser for full-text search'
+default_version = '1.0'
+module_pathname = '$libdir/simple_parser'
+relocatable = true
